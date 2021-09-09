@@ -1,1 +1,1 @@
-[![Ayush's GitHub Banner](./assets/GitHubHeader.png)](http://ayushweb.herokuapp.com/)
+[![Ayush's GitHub Banner](./images/hello.jpg)](http://ayushweb.herokuapp.com/)
