@@ -50,7 +50,7 @@ I'm Ayush, A Competitive Programmer Having Knoweledge Of Various Tech Stack Such
 
 ## 💼 How Can We Forgot About Skills...
 
-![](https://img.shields.io/badge/Code-MachineLearning-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MachineLearning-informational?style=flat&logo=MachineLearning&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
