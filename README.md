@@ -60,7 +60,7 @@ I'm Ayush, A Competitive Programmer Having Knoweledge Of Various Tech Stack Such
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB(basic)-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-"Probelm Solving"-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-"ProbelmSolving"-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 <details>
 <summary>More Skills</summary>
 <br>
