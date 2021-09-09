@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/b_eyon_d)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mishra-ayush08/)
 [![CodeForces Badge](https://cp-logo.vercel.app/codeforces/Beyond_AY)](http://codeforces.com/profile/Beyond_AY)
-[![CodeChef Badge](https://cp-logo.vercel.app/codechef/beyond_ay)](http://codeforces.com/profile/Beyond_AY)
+[![CodeChef Badge](https://cp-logo.vercel.app/codechef/beyond_ay)](https://www.codechef.com/users/beyond_ay)
 
 Hey there 👋
 
@@ -63,14 +63,8 @@ I'm Ayush, A Competitive Programmer Having Knoweledge Of Various Tech Stack Such
 <summary>Will Be Adding More Skills</summary>
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about an Quote??
 
 > I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
 >
 > <p>- Andy Bernard</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
