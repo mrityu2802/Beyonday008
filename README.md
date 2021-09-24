@@ -35,18 +35,7 @@ I'm Ayush, A Competitive Programmer Having Knoweledge Of Various Tech Stack Such
 
 ## &#x1f4c8; Lets See Some Stats
 
-<br>
 
-<a href="https://github.com/Beyonday008">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beyonday008&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Beyonday008">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Beyonday008&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
 
 ## 💼 How Can Anyone Forgot About Skills...
 
