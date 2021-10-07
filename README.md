@@ -1,6 +1,5 @@
 [![Ayush's GitHub Banner](./images/hello.jpg)](http://ayushweb.herokuapp.com/)
 
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/b_eyon_d)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mishra-ayush08/)
 [![CodeForces Badge](https://cp-logo.vercel.app/codeforces/Beyond_AY)](http://codeforces.com/profile/Beyond_AY)
