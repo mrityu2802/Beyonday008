@@ -10,6 +10,11 @@ Hey there 👋
 I'm Ayush, A Competitive Programmer Having Knoweledge Of Various Tech Stack Such As :- Machine Learning, Web development. I'm Zeal About Exploring New thing And Looking For Oppurtunities To Expand My Learning and Skills.
 
 ## 📌 Have A Look At My Pinned Repositories
+<br>
+
+<a href="https://github.com/Beyonday008/Just-Music">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Beyonday008&repo=Just-Music&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <br>
 
