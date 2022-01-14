@@ -46,7 +46,7 @@ I'm Ayush, A Competitive Programmer Having Knoweledge Of Various Tech Stack Such
 </a>
 
 <a href="https://github.com/Beyonday008">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Beyonday008&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Beyonday08&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
